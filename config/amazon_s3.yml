@@ -1,0 +1,5 @@
+production:
+  bucket_name: iOSAtlanta
+  access_key_id: ''
+  secret_access_key: ''
+  use_persistent: false
